@@ -6,7 +6,7 @@
 |-----|-----|-----|
 | TC1 | TC2 | TC3 |
 | TC4 | TC5 | TC6 |
-| TC7 | TC8 | TC9 |
+
 
 
 14. Lorem ipsum dolor sit amet
