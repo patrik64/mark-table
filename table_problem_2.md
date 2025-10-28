@@ -1,8 +1,8 @@
-## Lorem ipsum dolor sit amet
+## 1. Lorem ipsum dolor sit amet
 
 **TABLES START**
 
-## Table
+## 2. Table
 | TH1 | TH2 | TH3 |
 |-----|-----|-----|
 | TC1 | TC2 | TC3 |
