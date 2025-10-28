@@ -1,11 +1,11 @@
 the following markdown content (between the ----):
 
 ---------------------------------------------------
-# Lorem ipsum dolor sit amet
+## 1. Lorem ipsum dolor sit amet
 
 **TABLES START**
 
-## Table
+## 2. Table
 | TH1 | TH2 | TH3 |
 |-----|-----|-----|
 | TC1 | TC2 | TC3 |
@@ -13,5 +13,6 @@ the following markdown content (between the ----):
 
 **TABLES END**
 
-Excepteur sint occaecat cupidatat non proident.
+## 3. Excepteur sint occaecat cupidatat non proident.
 ---------------------------------------------------
+
