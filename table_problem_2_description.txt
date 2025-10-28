@@ -16,3 +16,20 @@ the following markdown content (between the ----):
 ## 3. Excepteur sint occaecat cupidatat non proident.
 ---------------------------------------------------
 
+renders in ketryx as:
+
+---------------------------------------------------
+**TABLES START**
+
+## 2. Table
+| TH1 | TH2 | TH3 |
+|-----|-----|-----|
+| TC1 | TC2 | TC3 |
+| TC4 | TC5 | TC6 |
+
+**TABLES END**
+
+## 3. Excepteur sint occaecat cupidatat non proident.
+---------------------------------------------------
+
+i.e. the first line is missing
