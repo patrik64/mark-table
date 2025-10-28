@@ -16,3 +16,29 @@ the following markdown content (between the ----):
 ## 3. Excepteur sint occaecat cupidatat non proident.
 ---------------------------------------------------
 
+renders in ketryx as:
+
+---------------------------------------------------
+**TABLES START**
+
+| TH1 | TH2 | TH3 |
+|-----|-----|-----|
+| TC1 | TC2 | TC3 |
+| TC4 | TC5 | TC6 |
+
+**TABLES END**
+
+Lorem ipsum dolor sit amet
+
+**TABLES START**
+
+| TH1 | TH2 | TH3 |
+|-----|-----|-----|
+| TC1 | TC2 | TC3 |
+| TC4 | TC5 | TC6 |
+
+**TABLES END**
+
+---------------------------------------------------
+
+i.e. the first line is missing (it is also taken as an item title)
