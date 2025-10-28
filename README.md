@@ -3,10 +3,6 @@
 
 2. Lorem ipsum dolor sit amet
 
-3. ![Tiger](https://upload.wikimedia.org/wikipedia/commons/8/81/2012_Suedchinesischer_Tiger.JPG)
-
-4. Lorem ipsum dolor sit amet
-
 5. Lorem ipsum dolor sit amet
 
 6. Lorem ipsum dolor sit amet
@@ -28,8 +24,10 @@
 14. Lorem ipsum dolor sit amet
 
 15. Lorem ipsum dolor sit amet
- 
+
 16. Lorem ipsum dolor sit amet
+ 
+17. Lorem ipsum dolor sit amet
 
 
 
