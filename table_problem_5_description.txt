@@ -1,0 +1,69 @@
+the following markdown content (between the ----):
+
+---------------------------------------------------
+1. Lorem ipsum dolor sit amet
+2. Lorem ipsum dolor sit amet
+3. Lorem ipsum dolor sit amet
+4. Lorem ipsum dolor sit amet
+5. Lorem ipsum dolor sit amet
+
+**TABLES START**
+
+| TH1 | TH2 | TH3 |
+|-----|-----|-----|
+| TC1 | TC2 | TC3 |
+| TC4 | TC5 | TC6 |
+
+**TABLES END**
+
+6. Excepteur sint occaecat cupidatat non proident.
+7. Excepteur sint occaecat cupidatat non proident.
+8. Excepteur sint occaecat cupidatat non proident.
+9. Excepteur sint occaecat cupidatat non proident.
+
+---------------------------------------------------
+
+renders in ketryx as:
+
+---------------------------------------------------
+
+1. Lorem ipsum dolor sit amet
+2. Lorem ipsum dolor sit amet
+3. Lorem ipsum dolor sit amet
+4. Lorem ipsum dolor sit amet
+5. Lorem ipsum dolor sit amet
+
+**TABLES START**
+
+| TH1 | TH2 | TH3 |
+|-----|-----|-----|
+| TC1 | TC2 | TC3 |
+| TC4 | TC5 | TC6 |
+
+**TABLES END**
+
+1. Lorem ipsum dolor sit amet
+2. Lorem ipsum dolor sit amet
+3. Lorem ipsum dolor sit amet
+4. Lorem ipsum dolor sit amet
+5. Lorem ipsum dolor sit amet
+
+**TABLES START**
+
+| TH1 | TH2 | TH3 |
+|-----|-----|-----|
+| TC1 | TC2 | TC3 |
+| TC4 | TC5 | TC6 |
+
+**TABLES END**
+
+1. Excepteur sint occaecat cupidatat non proident.
+2. Excepteur sint occaecat cupidatat non proident.
+3. Excepteur sint occaecat cupidatat non proident.
+4. Excepteur sint occaecat cupidatat non proident.
+
+---------------------------------------------------
+
+i.e. it cuts the content below the table and repeats the content from
+the beginning until the end of the table + the numbering after the last table
+starts again from 1 (instead of 6)
