@@ -1,4 +1,6 @@
-TP3.
+---
+itemTitle: TP3
+---
 
 1. Lorem ipsum dolor sit amet
 2. Lorem ipsum dolor sit amet
