@@ -1,0 +1,18 @@
+the following markdown content (between the ----):
+
+---------------------------------------------------
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet
+---------------------------------------------------
+
+renders in ketryx as:
+
+---------------------------------------------------
+
+Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet
+---------------------------------------------------
+
+i.e. there is only a single line
